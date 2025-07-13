@@ -36,7 +36,7 @@ st.set_page_config(layout="wide", page_title="Analisis Penjualan Buah per kg")
 st.markdown("""
 <style>
 .header {
-    background-color: #800080;
+    background-color: #800000;
     color: white;
     padding: 15px;
     border-radius: 10px;
