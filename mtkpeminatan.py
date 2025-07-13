@@ -45,7 +45,7 @@ st.markdown("""
 .card {
     padding: 15px;
     border-radius: 10px;
-    background-color: white;
+    background-color: black;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
     margin-bottom: 15px;
 }
